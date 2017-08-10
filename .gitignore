@@ -1,0 +1,6 @@
+Thirdparty/g2o/build
+Thirdparty/DBoW2/build
+*build/*
+build/*
+*.so
+*ORBvoc.txt
